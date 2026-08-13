@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Flask](https://img.shields.io/badge/Flask-Framework-black) ![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
-> 📌 **Note:** Application screenshots are included in the repository as `screenshot.zip`. Extract this file to view the app overview and dashboard preview.
+
 
 ---
 
@@ -13,6 +13,9 @@
 Most businesses treat every customer the same way, even though spending habits, income, and purchase frequency vary significantly across a customer base. **ClusterAI** solves this by applying unsupervised machine learning to automatically group customers into meaningful, interpretable segments — **Budget Shoppers, High Spenders, Occasional Buyers, and Loyal Customers**.
 
 Users upload a CSV of customer data, and the application handles the full pipeline: cleaning, scaling, clustering, evaluation, and visualization — surfaced through an interactive dashboard that requires no technical background to interpret.
+<img width="1908" height="1420" alt="screencapture-127-0-0-1-5000-2025-09-28-16_45_00" src="https://github.com/user-attachments/assets/b5141711-a65f-47df-8627-e1233b3c95c1" />
+<img width="1908" height="5590" alt="screencapture-127-0-0-1-5000-analyze-2025-09-28-17_20_30" src="https://github.com/user-attachments/assets/1c6423cd-6beb-4b67-b91d-1b3b7e0a4cd1" />
+
 
 ---
 
